@@ -114,6 +114,5 @@ Captured from the release build on Windows (120x38 unless noted).
   </tr>
   <tr>
     <td><img src="docs/screenshots/help.png" width="430" alt="Keyboard help overlay"></td>
-    <td><img src="docs/screenshots/native-picker.png" width="430" alt="Native Windows file picker"></td>
   </tr>
 </table>
