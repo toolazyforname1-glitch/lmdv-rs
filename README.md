@@ -53,3 +53,67 @@ Preferences live in `%APPDATA%\lmdv-tui\settings.json`; tabs and reading positio
 ## Help
 
 Press `?` for the in-app key reference, or use the command palette with `Ctrl+P`.
+
+## Screenshots
+
+Captured from the release build on Windows (120x38 unless noted).
+
+### Reading
+
+<table>
+  <tr>
+    <td><img src="docs/screenshots/reader-dark.png" width="430" alt="Reader in dark theme"></td>
+    <td><img src="docs/screenshots/reader-top.png" width="430" alt="Reading card, front matter and article"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/reader-code.png" width="430" alt="Fenced code with copy chip"></td>
+    <td><img src="docs/screenshots/reader-callouts.png" width="430" alt="Alert callouts"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/reader-sticky-section.png" width="430" alt="Sticky section bar deep in a long document"></td>
+    <td><img src="docs/screenshots/reader-narrow.png" width="430" alt="80-column layout"></td>
+  </tr>
+</table>
+
+### Themes and start page
+
+<table>
+  <tr>
+    <td><img src="docs/screenshots/reader-light.png" width="430" alt="Light theme"></td>
+    <td><img src="docs/screenshots/reader-sepia.png" width="430" alt="Sepia theme"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/start-page.png" width="430" alt="New tab start page"></td>
+    <td><img src="docs/screenshots/settings.png" width="430" alt="Settings panel"></td>
+  </tr>
+</table>
+
+### Editor
+
+<table>
+  <tr>
+    <td><img src="docs/screenshots/editor-split.png" width="430" alt="Source and preview side by side"></td>
+    <td><img src="docs/screenshots/editor-preview.png" width="430" alt="Live preview pane"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/editor-scroll.png" width="430" alt="Synchronized scrolling in the split editor"></td>
+    <td><img src="docs/screenshots/task-toggles.png" width="430" alt="Task checkbox toggling"></td>
+  </tr>
+</table>
+
+### Panels, navigation and overlays
+
+<table>
+  <tr>
+    <td><img src="docs/screenshots/docked-panes.png" width="430" alt="Docked file browser, reading card and outline"></td>
+    <td><img src="docs/screenshots/file-browser.png" width="430" alt="File browser tree"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/browser-search.png" width="430" alt="File browser search"></td>
+    <td><img src="docs/screenshots/find-bar.png" width="430" alt="Find bar with options"></td>
+  </tr>
+  <tr>
+    <td><img src="docs/screenshots/help.png" width="430" alt="Keyboard help overlay"></td>
+    <td><img src="docs/screenshots/native-picker.png" width="430" alt="Native Windows file picker"></td>
+  </tr>
+</table>
